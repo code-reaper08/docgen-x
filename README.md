@@ -1,6 +1,7 @@
 # docgen-x
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/code-reaper08/docgen?style=for-the-badge) [![GitHub issues](https://img.shields.io/github/issues/code-reaper08/docgen?style=for-the-badge)](https://github.com/code-reaper08/docgen/issues) [![GitHub stars](https://img.shields.io/github/stars/code-reaper08/docgen?style=for-the-badge)](https://github.com/code-reaper08/docgen/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/code-reaper08/docgen?style=for-the-badge) ![Lines of code](https://img.shields.io/tokei/lines/github/code-reaper08/docgen?style=for-the-badge) ![License](https://img.shields.io/badge/License%20-MIT-yellow?style=for-the-badge)
+![npm](https://img.shields.io/npm/dt/docgen-x?style=for-the-badge)
 
 
 ![docgen-ximg](https://user-images.githubusercontent.com/64256342/108357866-042e7d00-7214-11eb-81e5-2440fbe83152.png)
