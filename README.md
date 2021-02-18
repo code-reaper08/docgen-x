@@ -1,4 +1,4 @@
-# docgencli
+# docgen-x
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/code-reaper08/docgen?style=for-the-badge) [![GitHub issues](https://img.shields.io/github/issues/code-reaper08/docgen?style=for-the-badge)](https://github.com/code-reaper08/docgen/issues) [![GitHub stars](https://img.shields.io/github/stars/code-reaper08/docgen?style=for-the-badge)](https://github.com/code-reaper08/docgen/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/code-reaper08/docgen?style=for-the-badge) ![Lines of code](https://img.shields.io/tokei/lines/github/code-reaper08/docgen?style=for-the-badge) ![License](https://img.shields.io/badge/License%20-MIT-yellow?style=for-the-badge)
 
@@ -9,14 +9,14 @@
 
 ## Installation
 
-`$ npm install docgencli `
+`$ npm install docgen-x `
 
 ## Highlights
 + Creates License files effectively and fast.
-+ With `docgencli`, Licensing is a matter of seconds.
++ With `docgen-x`, Licensing is a matter of seconds.
 
 ## List of commands
-[docgencli](https://github.com/code-reaper08/docgencli) currently provides 8 commands,
+[docgen-x](https://github.com/code-reaper08/docgen-x) currently provides 8 commands,
 
 1. `docgen`
 
