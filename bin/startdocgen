@@ -2,7 +2,7 @@
 const chalk = require('chalk');
 const figlet = require('figlet');
  
-figlet.text('DocGen-CLI', {
+figlet.text('DocGen-X', {
     font: 'Doh',
     horizontalLayout: 'default',
     verticalLayout: 'default',
