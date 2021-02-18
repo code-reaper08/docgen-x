@@ -1,5 +1,5 @@
 {
-  "name": "docgenc-CLI",
+  "name": "docgen-x",
   "version": "1.0.0",
   "description": "docgencli - a CLI to create various License files for Projects",
   "main": "index.js",
