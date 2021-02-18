@@ -1,15 +1,30 @@
 {
   "name": "docgen",
   "version": "1.0.0",
-  "description": "",
+  "description": "docgen - a CLI to create various License files for Projects",
   "main": "index.js",
   "bin": {
-    "docgen": "./bin/docgenbash"
+    "docgen": "./bin/startdocgen",
+    "docgen-help": "./bin/docgenhelp",
+    "docgen-m": "./bin/docgenmit",
+    "docgen-a": "./bin/docgenapa",
+    "docgen-g3": "./bin/docgengnu3",
+    "docgen-g2": "./bin/docgengnu2",
+    "docgen-v": "./bin/docgenv",
+    "docgen-bsd2": "./bin/docgenbsd2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["Documentation","License","Generator","docgen","DocGen","Automatic"],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/code-reaper08/docgen"
+    },
+  "author": "Vishwa.R",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0"
+  }
 }

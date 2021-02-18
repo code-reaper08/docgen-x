@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+const chalk = require('chalk');
+require("../index").writeapapub();
+
+console.log(chalk.yellow.bgRed.bold('Successfully created a APACHE 2.0 License !'));

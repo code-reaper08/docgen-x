@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+const chalk = require('chalk');
+require("../index").writegnu2pub();
+
+console.log(chalk.yellow.bgRed.bold('Successfully created a GNU 2.0 License !'));

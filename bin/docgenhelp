@@ -1,0 +1,16 @@
+#!/usr/bin/env node
+const chalk = require('chalk');
+console.log('\n')
+console.log(chalk.cyanBright("Try the following commands ..."))
+console.log('\n')
+console.log(chalk.green("docgen-m ----------------to create a MIT License."))
+console.log('\n')
+console.log(chalk.blue("docgen-a ----------------to create a APACHE 2.0 License."))
+console.log('\n')
+console.log(chalk.green("docgen-g3 ----------------to create a GNU 3.0 License."))
+console.log('\n')
+console.log(chalk.blue("docgen-g2 ----------------to create a GNU 2.0 License."))
+console.log('\n')
+console.log(chalk.green("docgen-bsd2 ----------------to create a BSD 2-clause 'Simplified'  License."))
+console.log('\n')
+console.log(chalk.blue("docgen-help ----------------You are already here !"))

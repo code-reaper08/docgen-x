@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+const chalk = require('chalk');
+require("../index").writemitpub();
+
+console.log(chalk.yellow.bgRed.bold('Successfully created a MIT License !'));

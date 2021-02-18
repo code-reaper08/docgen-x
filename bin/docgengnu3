@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+const chalk = require('chalk');
+require("../index").writegnu3pub();
+
+console.log(chalk.yellow.bgRed.bold('Successfully created a GNU 3.0 License !'));
