@@ -22,6 +22,7 @@
       "url": "https://github.com/code-reaper08/docgencli"
     },
   "author": "Vishwa.R",
+  "homepage": "https://github.com/code-reaper08/docgencli/blob/main/README.md",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.0",
