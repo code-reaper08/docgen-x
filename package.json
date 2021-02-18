@@ -1,7 +1,7 @@
 {
-  "name": "docgen",
+  "name": "docgencli",
   "version": "1.0.0",
-  "description": "docgen - a CLI to create various License files for Projects",
+  "description": "docgencli - a CLI to create various License files for Projects",
   "main": "index.js",
   "bin": {
     "docgen": "./bin/startdocgen",
@@ -19,7 +19,7 @@
   "keywords": ["Documentation","License","Generator","docgen","DocGen","Automatic"],
   "repository": {
       "type": "git",
-      "url": "https://github.com/code-reaper08/docgen"
+      "url": "https://github.com/code-reaper08/docgencli"
     },
   "author": "Vishwa.R",
   "license": "MIT",
