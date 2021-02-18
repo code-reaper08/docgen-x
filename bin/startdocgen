@@ -6,7 +6,7 @@ figlet.text('DocGen-X', {
     font: 'Doh',
     horizontalLayout: 'default',
     verticalLayout: 'default',
-    width: 150,
+    width: 300,
     whitespaceBreak: true
 }, function(err, data) {
     if (err) {
