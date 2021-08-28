@@ -5,7 +5,7 @@
 
 
 ![docgen-ximg](https://user-images.githubusercontent.com/64256342/108357866-042e7d00-7214-11eb-81e5-2440fbe83152.png)
-## A CLI to create various License files for Projects with ease.
+## A CLI to create various License files for Projects with ease. ( Thanks for 275 downloads )
 
 
 ## Installation
